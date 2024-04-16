@@ -16,14 +16,12 @@ AaharSathi is a conceptual UI design for a food delivery application aimed at pr
 AaharSathi aims to revolutionize the way users order food by offering a modern and user-centric interface. From browsing restaurants and menus to placing orders and tracking deliveries, this app design focuses on simplicity, efficiency, and aesthetics.
 
 ## Features
-
-- **User-Friendly Interface:** Intuitive design with easy navigation for browsing restaurants, menus, and food items.
-- **Restaurant Discovery:** Explore a wide range of restaurants, cuisines, and dining options based on location and preferences.
-- **Customizable Orders:** Customize food orders with options for special instructions, dietary preferences, and meal modifications.
-- **Seamless Ordering Process:** Streamlined checkout process with secure payment options and order confirmation.
-- **Real-Time Order Tracking:** Track order status, delivery updates, and estimated arrival time for a hassle-free experience.
-- **Personalized Recommendations:** Receive personalized food recommendations based on past orders, preferences, and user behavior.
-- **Rating and Reviews:** Rate restaurants, dishes, and delivery experiences, and leave reviews to help other users make informed decisions.
+- Seamless Ordering: Effortlessly browse through a variety of food options and place orders with ease.
+- Diverse Menu: Explore a comprehensive menu including burgers, pizza, cakes, and more.
+- Personalization: Customize orders with special instructions, dietary preferences, and meal modifications.
+- Real-Time Tracking: Track orders in real-time from preparation to delivery.
+- Secure Payments: Make secure payments through multiple payment options.
+- User Ratings: Leave ratings and reviews to help others make informed decisions.
 
 ## Screenshots
 ![Login Page](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/ef928747-d795-4f7e-a0ca-18ee7f8cdd33)
