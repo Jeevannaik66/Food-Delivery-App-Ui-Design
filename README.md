@@ -29,7 +29,7 @@ AaharSathi aims to revolutionize the way users order food by offering a modern a
 ![Login Page](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/ef928747-d795-4f7e-a0ca-18ee7f8cdd33)
 ![Signup Page](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/19e640e5-5035-480c-86eb-52022c0a3cc1)
 ![Home Page 1](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/b7c3f78b-ee83-4e61-bae4-a798665c9790)
-![Page 2](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/a6fe2954-7349-4e9b-920e-4340bc4bd216)
+ ![Page 2](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/a6fe2954-7349-4e9b-920e-4340bc4bd216)
 ![Page 3](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/1802ae30-3ebf-4073-98b4-d1a1cc4ea2fd)
 ![Page 4](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/e6891651-484a-4c21-bc36-9bca98754742)
 ![Page 5](https://github.com/Jeevannaik66/Food-Delivery-App-Ui-Design/assets/117274229/794d0f90-5718-4a2f-a770-ded8105005fd)
