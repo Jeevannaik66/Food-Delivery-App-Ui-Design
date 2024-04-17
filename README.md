@@ -39,7 +39,7 @@ To explore the AaharSathi UI design, simply view the provided screenshots or dow
 
 ## Technologies Used
 
-- **Design Tools:** Adobe XD, Figma.
+- **Design Tools:**  Figma.
 - **Graphics Editing:** Adobe Photoshop.
   
 
